@@ -58,5 +58,7 @@ Bot: Goodbye!
 
 ---
 
+Note: If notebook preview does not load on GitHub, please download and open in Jupyter/Colab.
+
 ## 📌 Conclusion
 This project helped me understand how transformer models work and how chatbots are built using NLP.
